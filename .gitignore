@@ -1,3 +1,14 @@
+# Compile files
+*.obj
+*.m51
+*.bak
+*.lst
+*.opt
+*.plg
+
+
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
